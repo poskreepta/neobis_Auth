@@ -25,7 +25,7 @@ class AppCoordinator: Coordinator {
     }
 
     func start() {
-//        mf
+        
     }
 
     func showSplashFlow() {

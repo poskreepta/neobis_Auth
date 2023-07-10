@@ -11,7 +11,6 @@ enum ServiceError: Error {
     case serviceError(String)
     case unknown(String = "An unknown error occured")
     case decodingError(String = "Error parsing server response")
-    
 }
 
 class AuthService {
